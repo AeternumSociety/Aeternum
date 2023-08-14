@@ -6,5 +6,5 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function revealSecret() {
-    Descubre la verdad oculta volviendo a la fuente.
+    "Descubre la verdad oculta volviendo a la fuente"
 }
