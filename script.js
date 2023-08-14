@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const symbol = document.querySelector('img');
+    const symbol = document.querySelector('#symbol');
     symbol.addEventListener('click', function() {
         revealSecret();
     });
