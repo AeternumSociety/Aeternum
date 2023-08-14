@@ -6,5 +6,5 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function revealSecret() {
-    // Aquí puedes mostrar un mensaje o desencadenar la siguiente parte del juego.
+    Descubre la verdad oculta volviendo a la fuente.
 }
